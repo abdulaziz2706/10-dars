@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.hd {
+    display: flex;
+padding: 0 50px;
+    align-items: center;
+}
+
+.nav1 {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    width: 1440px;
+height: 82px;
+
+
+}
+
+.btn1{
+    width: 192px;
+height: 82px;
+background: #F1A900;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24.2px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+border: none;
+margin-left: 25px;
+
+
+}
+
+.img{
+    display: flex;
+    align-items: center;
+    margin-left: 57px;
+}
+
+.im3 {
+    width: 10px;
+    height: 10px;
+}
+
+
+.hd h2{
+    color: white;
+    margin: 0 5px;
+    margin-left: 10px;
+}
+
+.nav2 h3{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 19.36px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: white;
+
+}
+
+.nav2{
+    height: 44px;
+    width: 1440px;
+    background-color: #222222;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+
+}
+
+.b-img{
+background-image: url(./image\ 5\ \(2\).png);
+background-repeat: no-repeat;
+width: 1440px;
+height: 797px;
+
+
+}
+
+.tw{
+    color: white;
+    font-family: Inter;
+font-size: 40px;
+font-weight: 700;
+line-height: 48.41px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+width: 220px;
+height: 51px;
+background-color: black;
+padding-top: 3px;
+
+
+}
+
+.text .h2{
+    width: 220px;
+height: 51px;
+font-family: Inter;
+font-size: 40px;
+font-weight: 700;
+line-height: 48.41px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+background-color: #F1A900;
+
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    gap: 64px;
+    padding-top: 350px;
+}
+
+.op{
+    width: 966px;
+height: 202px;
+border-radius: 10px ;
+background: #F1A90054;
+font-family: Inter;
+font-size: 64px;
+font-weight: 700;
+line-height: 77.45px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: white;
+margin-top: 31px;
+margin-left: 263px;
+margin-right: 211px;
+padding-top: 60px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 101px;
+
+}
+
+.icons{
+    display: flex;
+    gap: 52px;
+    margin-right: 100px;
+}
+
+.ic{
+    width: 24px;
+height: 24px;
+
+
+}
